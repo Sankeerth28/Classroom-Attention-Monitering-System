@@ -1,0 +1,32 @@
+Link: https://universe.roboflow.com/yolo-v9-gsjca/attention-detection-1gecw
+🔵 Pose Estimation Dataset
+(You built your own labeled pose dataset using MediaPipe Pose, but for reference:)
+
+MediaPipe Pose Official:
+https://developers.google.com/mediapipe/solutions/vision/pose_landmarker
+
+🔵 BIWI Head Pose Dataset
+
+BIWI 3D Head Pose Database:
+https://data.vision.ee.ethz.ch/cvl/gfanelli/head_pose/head_pose.html
+
+🔵 AFLW2000 Dataset
+
+AFLW2000 (part of 3DDFA release):
+https://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
+
+🔵 Closed Eyes in the Wild (CEW)
+
+CEW Dataset:
+https://cew-dataset.github.io/
+
+🔵 YawDD (Yawning Detection Dataset) (you referenced yaw detection, it's related to this)
+
+YawDD Dataset (Drowsiness/Yawning):
+http://conradsanderson.id.au/yawdd/
+
+🔵 FER-2013 (Facial Expression Recognition Challenge)
+
+FER-2013 Kaggle Challenge Dataset:
+https://www.kaggle.com/datasets/msambare/fer2013
+
